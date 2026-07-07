@@ -39,7 +39,8 @@ Flappy_bird_game/
 
 ## Screenshot
 ```
-<img width="375" height="677" alt="image" src="https://github.com/user-attachments/assets/7ab83770-b8d7-426d-8d84-d57198c5945f" />
+
+<img width="375" height="677" alt="Screenshot 2026-07-07 123645" src="https://github.com/user-attachments/assets/6805ef3f-7a23-45d8-85bb-c233d62c5409" />
 
 ```
 ## ⚙️ Installation
