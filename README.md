@@ -37,6 +37,11 @@ Flappy_bird_game/
 ├── parameters.yaml                                 
 ```
 
+## Screenshot
+```
+<img width="375" height="677" alt="image" src="https://github.com/user-attachments/assets/7ab83770-b8d7-426d-8d84-d57198c5945f" />
+
+```
 ## ⚙️ Installation
 
 ### 1. Clone the repository
